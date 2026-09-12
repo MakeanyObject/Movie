@@ -41,6 +41,12 @@
 - [x] 최종 9:16 MP4 (N=1이라 단일 클립이 최종본)
 
 ## 최종 결과물
-- **영상(15초, 9:16, 음성 포함):** https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_041033_d2ad7ff5-4c7f-4536-8b80-f20e80c932a6.mp4
-- 보드(보정본): https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_040553_381a2782-2636-47d5-9029-d0dacd550603.png
+- **영상(피부 보정본 · 최종):** https://d2ol7oe51mr4n9.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/88dda3dc-b520-4302-90da-0f48ef6bd302.mp4
+  - 기존 렌더링본에 ffmpeg 스킨 스무딩(hqdn3d + smartblur + eq) 후보정으로 잡티 완화 (크레딧 미사용)
+- 영상(원본 렌더링): https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_041033_d2ad7ff5-4c7f-4536-8b80-f20e80c932a6.mp4
+- 보드(리얼리즘 보정): https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_040553_381a2782-2636-47d5-9029-d0dacd550603.png
+- 보드(깨끗한 피부 보정 · 재렌더용): https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_042722_fe2954fc-409d-4578-9453-b6ae2fd3cd32.png
+
+## 메모
+- 크레딧 부족으로 깨끗한-피부 보드(fe2954fc) 기반 영상 재렌더링은 보류. 크레딧 충전 시 최고 품질로 재렌더 가능.
 - 옵션(미적용): 자막 번인 / 훅 텍스트 / 포스트 패키지(캡션·해시태그·광고 고지)

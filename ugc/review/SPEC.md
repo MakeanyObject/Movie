@@ -35,7 +35,12 @@
 ## 파이프라인 상태
 - [x] 폴더/브랜치, 크리에이터, 제품 확정
 - [x] 레퍼런스 확보, 캐릭터 import
-- [ ] 스토리보드(gpt_image_2) 생성 → 리얼리즘 보정(seedream)
-- [ ] **사용자 확인 체크포인트 (제품/캐릭터)**
-- [ ] 클립(seedance_2_5, 네이티브 음성) 생성
-- [ ] 프레임 QA → 최종 9:16 MP4
+- [x] 스토리보드(gpt_image_2) 생성 → 리얼리즘 보정(seedream)
+- [x] 사용자 확인 체크포인트 (제품/캐릭터)
+- [x] 클립(seedance_2_5, 네이티브 음성) 생성
+- [x] 최종 9:16 MP4 (N=1이라 단일 클립이 최종본)
+
+## 최종 결과물
+- **영상(15초, 9:16, 음성 포함):** https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_041033_d2ad7ff5-4c7f-4536-8b80-f20e80c932a6.mp4
+- 보드(보정본): https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_040553_381a2782-2636-47d5-9029-d0dacd550603.png
+- 옵션(미적용): 자막 번인 / 훅 텍스트 / 포스트 패키지(캡션·해시태그·광고 고지)

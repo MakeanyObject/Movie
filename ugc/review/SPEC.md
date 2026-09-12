@@ -41,8 +41,9 @@
 - [x] 최종 9:16 MP4 (N=1이라 단일 클립이 최종본)
 
 ## 최종 결과물
-- **영상(피부 보정본 · 최종):** https://d2ol7oe51mr4n9.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/88dda3dc-b520-4302-90da-0f48ef6bd302.mp4
-  - 기존 렌더링본에 ffmpeg 스킨 스무딩(hqdn3d + smartblur + eq) 후보정으로 잡티 완화 (크레딧 미사용)
+- **영상(깨끗한 피부 재렌더 · 최종):** https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_043624_b6bcad91-8efe-4301-aa12-296cb3fb82a4.mp4
+  - 깨끗한 피부 보드(fe2954fc)로 seedance_2_5 재렌더 (크레딧 충전 후)
+- 영상(ffmpeg 후보정본): https://d2ol7oe51mr4n9.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/88dda3dc-b520-4302-90da-0f48ef6bd302.mp4
 - 영상(원본 렌더링): https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_041033_d2ad7ff5-4c7f-4536-8b80-f20e80c932a6.mp4
 - 보드(리얼리즘 보정): https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_040553_381a2782-2636-47d5-9029-d0dacd550603.png
 - 보드(깨끗한 피부 보정 · 재렌더용): https://d8j0ntlcm91z4.cloudfront.net/user_33rbzRvWV0ZVyLjMopqDKCxOile/hf_20260912_042722_fe2954fc-409d-4578-9453-b6ae2fd3cd32.png
